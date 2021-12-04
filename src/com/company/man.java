@@ -18,7 +18,6 @@ public class man {
         Mother = mother;
     }
 
-
     public String toString() {
         return "man{" +
                 "name='" + name + '\'' +
