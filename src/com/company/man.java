@@ -18,7 +18,7 @@ public class man {
         Mother = mother;
     }
 
-    @Override
+
     public String toString() {
         return "man{" +
                 "name='" + name + '\'' +
