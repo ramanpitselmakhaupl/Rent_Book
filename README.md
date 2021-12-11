@@ -1,4 +1,4 @@
-# person_family_java
+# Rent_book
 just a program for my  java exam:)
 
 Public class reader contains three private fields
